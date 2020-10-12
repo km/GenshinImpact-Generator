@@ -2,8 +2,8 @@
 Single Threaded Account generator for Genshin Impact
 
 ## Requirements
--Python 3.8
--Requests and JSON library
+Python 3.8
+Requests and JSON library
 
  `$ pip3 install requests`
 
